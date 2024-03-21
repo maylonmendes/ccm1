@@ -1,3 +1,3 @@
 # ccm Edite Cordeiro Marques
-## Desenvolvido por: Maylon
-### Matemática II Programação 1
+## Desenvolvido em Html e CSS - Matemática II Programação 1
+### Desenvolvido por: Maylon:punch:
